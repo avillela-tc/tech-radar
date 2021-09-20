@@ -1,0 +1,11 @@
+name,quadrant,ring,isNew,description
+Gremlin,Platforms,Trial,TRUE,Chaos engineering tool
+Datadog,Platforms,Adopt,FALSE,Observability tool
+Lightstep,Platforms,Trial,TRUE,Observability tool
+Honeycomb,Platforms,Trial,TRUE,Observability tool
+OpenTelemetry,languages-and-frameworks,Adopt,TRUE,Observability framework
+Vue.js,languages-and-frameworks,Assess,TRUE,Front-end framework
+Team Topologies,Techniques,Adopt,FALSE,
+LaunchDarkly,Platforms,Assess,TRUE,Feature-flagging tool
+Mortar,Tools,Adopt,TRUE,
+Docker Desktop,Tools,Adopt,FALSE,Docker is going to start charging for Docker desktop
